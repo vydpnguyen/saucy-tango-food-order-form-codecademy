@@ -9,16 +9,16 @@ function FoodOrderForm() {
     return(
         <form>
             <label htmlFor='name'>Name:</label>
-            <input id='name'></input>
+            <input id='name' value={name}></input>
             <br/>
             <label htmlFor='phone'>Phone:</label>
-            <input id='phone'></input>
+            <input id='phone' value={phone}></input>
             <br/>
             <label htmlFor='address'>Address:</label>
-            <input id='address'></input>
+            <input id='address' value={address}></input>
             <br/>
             <label htmlFor='order'>Order:</label>
-            <input id='order'></input>
+            <input id='order' value={order}></input>
             <br/>
             <button type='submit'>Submit Order</button>
         </form>
