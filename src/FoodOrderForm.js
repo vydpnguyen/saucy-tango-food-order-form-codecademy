@@ -6,6 +6,12 @@ function FoodOrderForm() {
     const [address, setAddress] = useState('');
     const [order, setOrder] = useState('');
 
+    const handleSubmit = (e) => {
+        // prevent form from taking its default action
+        e.preventDefault();
+        alert(`Order Successful! Your order was ${order}. Please show your confirmation number for pickup.`);
+    }
+
     return(
         <form>
             <label htmlFor='name'>Name:</label>
