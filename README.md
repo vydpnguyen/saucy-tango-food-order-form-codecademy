@@ -3,7 +3,7 @@
 This is my project for Codecademy's Saucy Tango Food Order Form.
 **Note:** The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
 
-# Project Sescription
+# Project Description
 In this practice project, you will create a food order form for a restaurant.
 
 The local mom-and-pop shop, Saucy Tango, has received a lot of love from the community recently. To keep up with demand, they’ve decided to open their restaurant for online orders. They’ve entrusted this task to you, a budding React developer.
