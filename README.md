@@ -2,12 +2,12 @@
 
 This is my project for Codecademy's Saucy Tango Food Order Form in the Full Stack Engineer path. **Note:** The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
 
-![Saucy Tango Form](public/saucy-tango.png)
-
 # Project Description
 In this practice project, you will create a food order form for a restaurant.
 
 Your goal is to create a functional form that allows customers to place their orders easily. Once the customer submits the form, the form will alert them about their order details. You will be provided with a menu and your task is to create a form that can take in customer details such as name, phone number, address, and order.
+
+![Saucy Tango Form](public/saucy-tango.png)
 
 # Getting Started with Create React App
 
